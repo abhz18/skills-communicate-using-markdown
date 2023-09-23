@@ -6,3 +6,7 @@ by adding # characters we add header to a file. Here I added a header to this fi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# TAsk list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
